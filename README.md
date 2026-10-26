@@ -161,7 +161,6 @@ RedFlag-MinorProject4/
 - **Database:** MySQL
 - **Core Technology:** SQL
 - **Dataset Size:** Approximately 200,000 synthetic transactions
-- **Analysis Period:** January–June 2024
 - **Dataset:** Fictional PayFast transaction data
 - **Fraud Detection Patterns:** 12
 - **Purpose:** Academic learning and practical application of SQL-based fraud detection.
